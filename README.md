@@ -5,6 +5,8 @@ Ontwerp en maak voor een opdrachtgever een website op basis van een bestaande hu
 De instructie vind je in: [INSTRUCTIONS](https://github.com/fdnd-task/look-and-feel-corporate-identity/blob/main/docs/INSTRUCTIONS.md)
 
 
+Hier staat onze [gezamelijke stylesheet:](https://github.com/Sidopjescherm/look-and-feel-styleguide/issues)
+
 # Titel
 <!-- Geef je project een titel en schrijf in één zin wat het is -->
 
