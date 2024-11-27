@@ -1,5 +1,6 @@
 # Bieb In Bloei Over Ons pagina
-![image](https://github.com/user-attachments/assets/a0e73a10-ce03-4d26-bd5e-e93757577969)
+![Desktop-Figma-BiebInBloei-OverOns-achtergrondloos](https://github.com/user-attachments/assets/02ffe9f0-9e00-4379-b1ff-45bb5d4d9c5a)
+
 
 
 ## Beschrijving
@@ -10,6 +11,9 @@ Ik heb een nieuwe pagina ontworpen, de over ons pagina. Ik heb hierin verschille
 
 ## Huidig resultaat van de [website](https://anoukderooij24.github.io/look-and-feel-corporate-identity/)
 De webpagina bestaat nu uit een hele basic opzet van de over ons pagina. Ik heb geprobeerd om het ontwerp goed door te laten komen. Harry moet nog toegevoegd worden. Ik heb deze sprint vooral aan figma gewerkt om een ontwerp te maken voor de pagina, aangezien deze natuurlijk nog niet bestond. Ik heb een [mobile]() en een [desktop](https://www.figma.com/proto/NGsZjcH6PC4nB9ArkvqurT/BiebInBloei-Over-Ons?page-id=56%3A47&node-id=56-240&node-type=canvas&viewport=526%2C359%2C0.18&t=p81b525Xld3k1oR0-1&scaling=scale-down&content-scaling=fixed) versie gemaakt. Ik heb hierbij vooral gekeken naar wat ik zou willen weten over een bedrijf als ik een over ons pagina zou zien.
+
+![image](https://github.com/user-attachments/assets/a0e73a10-ce03-4d26-bd5e-e93757577969)
+
 
 ## Kenmerken
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framework of library gebruikt? -->
@@ -23,7 +27,7 @@ Ontwerp en maak voor een opdrachtgever een website op basis van een bestaande hu
 De instructie vind je in: [INSTRUCTIONS](https://github.com/fdnd-task/look-and-feel-corporate-identity/blob/main/docs/INSTRUCTIONS.md)
 
 
-Hier staat onze [gezamelijke stylesheet:](https://github.com/Sidopjescherm/look-and-feel-styleguide)
+Dit is onze [gezamelijke stylesheet](https://github.com/Sidopjescherm/look-and-feel-styleguide)
 
 ## Licentie
 
